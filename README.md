@@ -1,6 +1,6 @@
 # JetHeroesCompose
 
-Jetpack Compose
+Jetpack Compose dicoding academy
 <br>
 MVVM
 <br>
