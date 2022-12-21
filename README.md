@@ -10,4 +10,4 @@ Coil
 
 <br>
 
-<img align="left" src="ss/ss.jpg" width="200" height="400">
+<img align="left" src="ss/ss.png" width="200" height="400">
